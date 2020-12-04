@@ -12,3 +12,4 @@ https://www.oracle.com/database/technologies/instant-client/downloads.html
 
 Note:After downloading the instant client dont forget to add the directory location 
 in system path variables.
+#PS: The main code file is a jupyter notebook file, make sure you are pulling it and opening with jupyter Notebook.
