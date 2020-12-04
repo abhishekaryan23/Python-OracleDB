@@ -1,5 +1,5 @@
 # Python-OracleDB
-Connecting oracleDB with python using
+Connecting to oracleDB using python
 
 Using this python script you can connect to Oracle Database.
 Considering that you have python 3.2 or higher version installed on your system and
